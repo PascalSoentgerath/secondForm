@@ -10,4 +10,21 @@ color: #333;
 font: 1em / 1.4 Helvetica Neue, Helvetica, Arial, sans-serif;
 padding: 1em;
 margin: 0;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+form {
+    width: 33vw;
+}
+
+form li {
+    list-style-type: none;
+}
+
+fieldset {
+    margin-top: 15px;
+    text-align: center;
 }
